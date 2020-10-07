@@ -70,8 +70,7 @@ function Index() {
                 <Button
                   className="btn-round"
                   color="info"
-                  href="#pablo"
-                  onClick={(e) => e.preventDefault()}
+                  href="/the-team"
                 >
                   More about the team
                 </Button>

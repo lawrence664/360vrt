@@ -69,7 +69,7 @@ function LandingPage() {
                 <Button
                   className="btn-round"
                   color="info"
-                  href="#pablo"
+                  href="/the-team"
                   onClick={(e) => e.preventDefault()}
                 >
                   See Details
